@@ -137,17 +137,6 @@ MyGenome_offtargets_sgRNA02_annotated.csv
 | `SeedMismatches` | Mismatches in PAM-proximal seed |
 | `RiskCategory` | High / Medium / Low |
 
----
-
-## Notes / Limitations
-
-- Strand is respected only for promoter annotation.
-- SWOffinder alignment orientation is used as-is.
-- Complex indels may require manual inspection.
-- Annotation quality strongly depends on GFF.
-
----
-
 ## Disclaimer
 
 > This annotation tool is independent.  
